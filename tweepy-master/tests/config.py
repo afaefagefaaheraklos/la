@@ -1,7 +1,5 @@
 import os
 import sys
-import random
-
 from unittest2 import TestCase
 
 from httreplay import start_replay, stop_replay
